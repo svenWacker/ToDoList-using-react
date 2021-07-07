@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.ab13f614.chunk.css",
-    "main.js": "/react-todo/static/js/main.fd61bfb0.chunk.js",
-    "main.js.map": "/react-todo/static/js/main.fd61bfb0.chunk.js.map",
-    "runtime-main.js": "/react-todo/static/js/runtime-main.30e7d16b.js",
-    "runtime-main.js.map": "/react-todo/static/js/runtime-main.30e7d16b.js.map",
-    "static/js/2.69911f8c.chunk.js": "/react-todo/static/js/2.69911f8c.chunk.js",
-    "static/js/2.69911f8c.chunk.js.map": "/react-todo/static/js/2.69911f8c.chunk.js.map",
-    "index.html": "/react-todo/index.html",
-    "static/css/main.ab13f614.chunk.css.map": "/react-todo/static/css/main.ab13f614.chunk.css.map",
-    "static/js/2.69911f8c.chunk.js.LICENSE.txt": "/react-todo/static/js/2.69911f8c.chunk.js.LICENSE.txt"
+    "main.css": "/svenWacker/react-todo.git/static/css/main.ab13f614.chunk.css",
+    "main.js": "/svenWacker/react-todo.git/static/js/main.fd61bfb0.chunk.js",
+    "main.js.map": "/svenWacker/react-todo.git/static/js/main.fd61bfb0.chunk.js.map",
+    "runtime-main.js": "/svenWacker/react-todo.git/static/js/runtime-main.97fe309d.js",
+    "runtime-main.js.map": "/svenWacker/react-todo.git/static/js/runtime-main.97fe309d.js.map",
+    "static/js/2.69911f8c.chunk.js": "/svenWacker/react-todo.git/static/js/2.69911f8c.chunk.js",
+    "static/js/2.69911f8c.chunk.js.map": "/svenWacker/react-todo.git/static/js/2.69911f8c.chunk.js.map",
+    "index.html": "/svenWacker/react-todo.git/index.html",
+    "static/css/main.ab13f614.chunk.css.map": "/svenWacker/react-todo.git/static/css/main.ab13f614.chunk.css.map",
+    "static/js/2.69911f8c.chunk.js.LICENSE.txt": "/svenWacker/react-todo.git/static/js/2.69911f8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30e7d16b.js",
+    "static/js/runtime-main.97fe309d.js",
     "static/js/2.69911f8c.chunk.js",
     "static/css/main.ab13f614.chunk.css",
     "static/js/main.fd61bfb0.chunk.js"
