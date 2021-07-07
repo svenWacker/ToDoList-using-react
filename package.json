@@ -1,8 +1,8 @@
 {
   "name": "react-todo",
   "version": "0.1.0",
-  "homepage": "http://svenWacker.github.io/react-todo",
   "private": true,
+  "homepage": "http://svenwacker.github.io/react-todo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
